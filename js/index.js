@@ -2,10 +2,10 @@
 document.addEventListener("DOMContentLoaded", () => {
 
   const images = [
-    "../image/ph1.jpg",
-    "../image/ph2.jpg",
-    "../image/ph3.jpg",
-    "../image/ph4.jpg",
+    "image/ph1.jpg",
+    "image/ph2.jpg",
+    "image/ph3.jpg",
+    "image/ph4.jpg",
   ];
 
   let i = 0;
